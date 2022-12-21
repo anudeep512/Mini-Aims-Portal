@@ -1,2 +1,2 @@
 # PROJECT_MINI_AIMS
-In this project I designed a Student management portal 
+In this project I designed a Command line Student management portal 
