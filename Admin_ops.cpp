@@ -3,10 +3,10 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "Admin.h"
-#include "starter_func.h"
-#include "Teacher.h"
-#include "Student.h"
+#include "headers/Admin.h"
+#include "headers/starter_func.h"
+#include "headers/Teacher.h"
+#include "headers/Student.h"
 #include <ios>
 #include <limits>
 #include <vector>
