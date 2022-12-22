@@ -6,10 +6,10 @@
 #include <string>
 #include <vector>
 #include <fstream>
-#include "starter_func.h"
-#include "Admin.h"
-#include "Teacher.h"
-#include "Student.h"
+#include "headers/starter_func.h"
+#include "headers/Admin.h"
+#include "headers/Teacher.h"
+#include "headers/Student.h"
 #include <ios>
 #include <limits>
 
