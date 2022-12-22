@@ -32,7 +32,7 @@ Your local Machine must have g++ or clang compiler installed.
 
 ### Compiling
 
-After cloning is redirect control to project folder using:
+After cloning is done redirect control to project folder using:
 
     cd ./PROJECT_MINI_AIMS
 
