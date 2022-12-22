@@ -1,7 +1,7 @@
 
 # MINI AIMS PORTAL
 
-This project is done for the course CS-1063. This project aims at developping a Academic management system in a college.
+This project aims at developping a Academic management system in a college.
 
 
 ## Authors
