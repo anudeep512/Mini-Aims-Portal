@@ -44,3 +44,36 @@ After compiling is done we get binary executable names "exe", to run it do:
 
     ./exe
 
+
+## Features
+
+- In this project I developed a Academic management system for a college which aims at providing a mode of connection between management, faculty, students in the college.
+- The following are the Roles available in this project:
+  - Admin 
+  - Student
+  - Faculty
+### Admin Mode
+
+
+- Add and Delete courses offered by the institute.
+- Adding and Removing students from the institute.
+- See the list of students registered for a course.
+
+### Teacher Mode
+
+- See the list of students registered for the course.
+- Submitting grades for the course.
+
+### Student Mode
+
+- Regsiter and Deregister from a course.
+- See the courses resgistered.
+- Checking grades for the courses registered.
+
+
+
+
+
+
+
+
