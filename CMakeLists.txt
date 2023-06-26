@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.25)
-project(Mini_Aims_Portal)
+project(Mini-Aims-Portal)
 
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(headers)
 
-add_executable(Mini_Aims_Portal
+add_executable(Mini-Aims-Portal
         headers/Admin.h
         headers/starter_func.h
         headers/Student.h
